@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcbeb8a0-09c7-4bb9-9356-5d3c1a421ca9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lIHJxauRf16dcqzt2iTDujqBEW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BunchMaker">
+    <configuration name="BunchMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculations.BunchMaker" />
+      <module name="FlowerSeller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flowersAndAccessories.Iris" />
+      <module name="FlowerSeller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flowersAndAccessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flowersAndAccessories.Rose" />
+      <module name="FlowerSeller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flowersAndAccessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingByFreshness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculations.SortingByFreshness" />
+      <module name="FlowerSeller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tulip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flowersAndAccessories.Tulip" />
+      <module name="FlowerSeller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flowersAndAccessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BunchMaker" />
+        <item itemvalue="Application.SortingByFreshness" />
+        <item itemvalue="Application.Rose" />
+        <item itemvalue="Application.Tulip" />
+        <item itemvalue="Application.Iris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbeb8a0-09c7-4bb9-9356-5d3c1a421ca9" name="Default Changelist" comment="" />
+      <created>1607277616182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607277616182</updated>
+      <workItem from="1607277624849" duration="1459000" />
+      <workItem from="1607359033147" duration="591000" />
+      <workItem from="1607619136717" duration="1952000" />
+      <workItem from="1607874789546" duration="4796000" />
+      <workItem from="1607963675559" duration="1676000" />
+      <workItem from="1608224707383" duration="898000" />
+      <workItem from="1608320112861" duration="3950000" />
+      <workItem from="1608476110054" duration="3878000" />
+      <workItem from="1608920207087" duration="2519000" />
+      <workItem from="1609084013075" duration="4693000" />
+      <workItem from="1609182844497" duration="3397000" />
+      <workItem from="1609271675431" duration="3589000" />
+      <workItem from="1609605658696" duration="902000" />
+      <workItem from="1609606582582" duration="4238000" />
+      <workItem from="1609696145724" duration="882000" />
+      <workItem from="1609756472260" duration="8694000" />
+      <workItem from="1609784122091" duration="2164000" />
+      <workItem from="1609852648012" duration="5482000" />
+      <workItem from="1609863475056" duration="5905000" />
+      <workItem from="1609953594473" duration="6850000" />
+      <workItem from="1610030100850" duration="4962000" />
+      <workItem from="1610127222406" duration="5766000" />
+      <workItem from="1610182515690" duration="5004000" />
+      <workItem from="1610209350302" duration="5016000" />
+      <workItem from="1610272733218" duration="940000" />
+      <workItem from="1610290276107" duration="57000" />
+      <workItem from="1610290401557" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/calculations/BunchMaker.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

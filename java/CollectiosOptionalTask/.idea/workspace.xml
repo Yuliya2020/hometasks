@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="866960db-1d89-41e1-9347-a012fdf07ab6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1msCEY9yE1RQURlx8Qpa2NC0Deu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Poem">
+    <configuration name="ArrayListWritingAndSorting" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListWritingAndSorting" />
+      <module name="CollectiosOptionalTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Poem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Poem" />
+      <module name="CollectiosOptionalTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadingFromFile" />
+      <module name="CollectiosOptionalTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackNumberReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackNumberReverse" />
+      <module name="CollectiosOptionalTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackNumberReverse" />
+        <item itemvalue="Application.Poem" />
+        <item itemvalue="Application.ReadingFromFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866960db-1d89-41e1-9347-a012fdf07ab6" name="Default Changelist" comment="" />
+      <created>1610272800995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610272800995</updated>
+      <workItem from="1610272805249" duration="855000" />
+      <workItem from="1610290428593" duration="91000" />
+      <workItem from="1610290761396" duration="75000" />
+      <workItem from="1610290872942" duration="110000" />
+      <workItem from="1610291003232" duration="2025000" />
+      <workItem from="1610388330784" duration="2096000" />
+      <workItem from="1610734960280" duration="348000" />
+      <workItem from="1610815500628" duration="3194000" />
+      <workItem from="1610827140509" duration="4612000" />
+      <workItem from="1610997632222" duration="2107000" />
+      <workItem from="1611084122453" duration="4493000" />
+      <workItem from="1611159884823" duration="1540000" />
+      <workItem from="1611165701753" duration="846000" />
+      <workItem from="1611245331910" duration="6602000" />
+      <workItem from="1611333157152" duration="5659000" />
+      <workItem from="1611489799002" duration="7965000" />
+      <workItem from="1611590903976" duration="1071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
